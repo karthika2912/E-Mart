@@ -1,0 +1,96 @@
+        * {
+            font-family: "Roboto";
+            margin: 0px;
+        }
+        
+        body {
+            background-image: url("https://www.teahub.io/photos/full/1-19957_high-quality-nice-hd-wallpapers-reta-familia-free.jpg");
+        }
+        
+        .bg-container {
+            background-size: cover;
+            height: 100vh;
+        }
+        
+        .header-bg {
+            background-size: cover;
+            height: 60vh;
+        }
+        
+        .nav-link {
+            color: #fff;
+        }
+        
+        .nav-link-box {
+            margin-right: 40px;
+            font-size: 20px;
+        }
+        
+        .header-text {
+            color: #ffffff;
+            text-align: center;
+            font-size: 90px;
+            font-weight: bold;
+            padding-top: 5%;
+        }
+        
+        .header-boxes {
+            border-radius: 20px;
+            border-color: gray;
+            margin: 20px;
+            text-align: center;
+        }
+        
+        .img-txt {
+            font-size: 20px
+        }
+        
+        .log-in-card {
+            background-color: #ffffff;
+            background-size: cover;
+            width: 50vh;
+            height: 70vh;
+            border-radius: 20px;
+            box-shadow: 20px 20px 20px 0px;
+            margin: 110px 0px 0px 100px;
+            padding: 40px;
+        }
+        
+        .login-card-heading {
+            font-weight: bold;
+            text-align: center;
+        }
+        
+        .text-box {
+            width: 300px;
+            height: 40px;
+            border-width: 1px;
+            margin-top: -100px;
+            border-color: rgb(170, 170, 170);
+            border-radius: 8px
+        }
+        
+        .login-card-text {
+            font-size: 20px;
+        }
+        
+        .button {
+            margin-top: 20px;
+            color: #ffffff;
+            background-color: rgb(72, 189, 97);
+        }
+        
+        .center-text {
+            margin-top: 10px;
+            text-align: center;
+        }
+        
+        .phbutton {
+            background-color: rgb(189, 189, 189);
+        }
+        
+        .fbbutton {
+            margin-top: 20px;
+            background-color: #3b5998;
+            color: cornsilk;
+        }
